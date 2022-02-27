@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An extraordinary deliverance, from a cruell plot, and bloudy massacre contrived by the malignants in Bristoll, for the delivering up the said city to Prince Rupert and his forces; but discovered by Gods goodnesse two houres before it should have beene acted, the chiefe conspirators taken, and imprisoned in the castle. Fully and exactly related in a letter from Colonell Fines commander in chiefe there, to the Right Honorable the Lord Say; and three letters more, read at a conference of the Lords and Commons on Tuesday, March 14. 1642. Die Martis, 14 Martii. 1642. Ordered by the Lords and Commons assembled in Parliament, that these letters shall be forthwith printed and published. Io. Browne Cler. Parliamentorum.</title>
+            <author>Fiennes, Nathaniel, 1607 or 8-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85266</idno>
+            <idno type="STC">Wing F873</idno>
+            <idno type="STC">Thomason E93_10</idno>
+            <idno type="STC">ESTC R18611</idno>
+            <idno type="EEBO-CITATION">99860437</idno>
+            <idno type="PROQUEST">99860437</idno>
+            <idno type="VID">112557</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85266)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112557)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E93[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An extraordinary deliverance, from a cruell plot, and bloudy massacre contrived by the malignants in Bristoll, for the delivering up the said city to Prince Rupert and his forces; but discovered by Gods goodnesse two houres before it should have beene acted, the chiefe conspirators taken, and imprisoned in the castle. Fully and exactly related in a letter from Colonell Fines commander in chiefe there, to the Right Honorable the Lord Say; and three letters more, read at a conference of the Lords and Commons on Tuesday, March 14. 1642. Die Martis, 14 Martii. 1642. Ordered by the Lords and Commons assembled in Parliament, that these letters shall be forthwith printed and published. Io. Browne Cler. Parliamentorum.</title>
+                  <author>Fiennes, Nathaniel, 1607 or 8-1669.</author>
+                  <author>E. H.</author>
+                  <author>R. A.</author>
+                  <author>Reverend minister now residing in Bristoll.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. Wright in the Old Bailey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>March 15. 1642 [i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The imprint date is old style.</note>
+                  <note>"From the fort at Brandanhill, March 11, 1642" signed at end : E. H.</note>
+                  <note>Second letter signed at end : R. A.</note>
+                  <note>Third letter written by Reverend minister now residing in Bristoll.</note>
+                  <note>Reproductions of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682 --  Early works to 1800.</term>
+               <term>Saye and Sele, William Fiennes, --  Viscount, 1582-1662 --  Early works to 1800.</term>
+               <term>Bristol (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:112557:1"/>
+            <pb n="1" facs="tcp:112557:1"/>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Am ſo full of buſineſſe, that I cannot write to your Lord<g ref="char:EOLhyphen"/>ſhip but very briefly. It hath pleaſed God to give us an ex<g ref="char:EOLhyphen"/>traordinary deliverance from a cruell conſpiracie and maſ<g ref="char:EOLhyphen"/>ſacre, from malignants within the City, and from a powerful invaſion from without by Prince <hi>Rupert</hi> and all his forces. God diſcove<g ref="char:EOLhyphen"/>red unto us the conſpiracie ſome two houres before it was to be acted; we tooke the chief actors with their Armes and preparations in ſeverall houſes by threeſcores and forties in a houſe, we have layed them ſafe in the Caſtle, and the Enemy, after two or three Cannon ſhot, perceiving that the plot within the Towne (whereon they depended) was diſcovered, wheeled about and left us in ſome
+<pb n="2" facs="tcp:112557:2"/>haſte, fearing we ſhould fall upon their reare; and indeed foure of my Troopers chaſed ſeven of theirs, tooke foure of their Horſes, their Armes and Cloakes, and forced them into a River to ſave their lives. Whoſoever ſhall conſider the condition this Town was in, in reſpect of the townſmen, and in reſpect of the Garriſon (one Regiment, <hi>viz.</hi> Col. <hi>Eſſex'es</hi> ſomething diſteinpered by their Collonels removall, eſpecially the Of<g ref="char:EOLhyphen"/>ficers, although they did very good ſervice, with great diligence; and the other Regi<g ref="char:EOLhyphen"/>ments being raw Souldiers, and hardly ha<g ref="char:EOLhyphen"/>ving one old ſouldier for an Officer amongſt them all, and how I was without money, without counſell, and without experience in my owne particular for matters of this na<g ref="char:EOLhyphen"/>ture) muſt upon theſe and many other con<g ref="char:EOLhyphen"/>ſiderations conclude, that though, as I writ in my laſt to your Lordſhip, that it is not to be expected that I ſhould do miracles; yet God hath been pleaſed to preſerve me almoſt by a miracle, the praiſe and glory of this good ſucceſſe being only due to him. And it is very probable that Prince <hi>Rupert</hi> will make ano<g ref="char:EOLhyphen"/>ther attempt upon this City, which is of in<g ref="char:EOLhyphen"/>finite
+<pb n="3" facs="tcp:112557:2"/>conſequence to them, and without a good proportion of men, it cannot be defen<g ref="char:EOLhyphen"/>ded: it will require <hi>1500</hi> or <hi>2000</hi> men to be upon the guard conſtantly, to make a ſuffici<g ref="char:EOLhyphen"/>ent guard: there is no better way then to have here a body of an Army of four or five thouſand men at the leaſt, which when the Enemy approaches may have recourſe to the City, and at other times may diſperce it ſelf to the defence of the adjacent Counties. My Lord, never did man make ſuch ſhifts for money as I doe, my Regiment of Horſe, Col. <hi>Eſſex</hi> his Regiment of Foot, Col. <hi>Hun<g ref="char:EOLhyphen"/>gerfords</hi> Regiment, and part of Col. <hi>Pophams</hi> lieth upon me, beſides many great incident charges which in this caſe muſt needs be borne by him that commands in chiefe. I beſeech your Lordſhip to conſider me, and let us have money at leaſt, if we cannot have both money and men, both which we want. I ſhall ſhortly ſend your Lordſhip and my Lord Generall (to whom I humblie beſeech your Lordſhip to excuſe me that I do not write at this time, for I am not willing to make an imperfect Relation, and I have hardly time to eate, drinke, or ſleepe, or ſcarce
+<pb n="4" facs="tcp:112557:3"/>to turne my ſelfe) and I will alſo ſend the examinations of the priſoners in the Caſtle, which are wellneere <hi>60,</hi> with all the paſſa<g ref="char:EOLhyphen"/>ges of this great deliverance, from a moſt bloody maſſacre, for which the Major and Aldermen and Councell of this City are very deſirous to joyn with me in a day of publike thankſgiving in this City.</p>
+            <closer>
+               <dateline>
+                  <date>March 11. 1642.</date>
+               </dateline>
+               <signed>Your Lordſhips moſt obedient ſonne, <hi>Nath. Fiennes.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:112557:3"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Cannot omit to give you a hint of our condition, and what hath paſſed among us this wéeke: on Sunday night laſt we had an Alarum, Prince <hi>Rupert</hi> with a force was come againſt the City, with ſome two thouſand Horſe, as is reported, accompained with his Brother Prince <hi>Maurice,</hi> and Lord <hi>George Digby,</hi> and other Noblemen; they came with conſidence of an eaſy entrance, and therefore brought no great Guns, they expected ſup<g ref="char:EOLhyphen"/>ply from our Malignants, which it ſéemes was pro<g ref="char:EOLhyphen"/>miſed on Monday, they faced our workes, where Colo<g ref="char:EOLhyphen"/>nell <hi>Fines</hi> ſounded a Trumpet, having with him onely a Troope of Horſe; at night they retreated, and next day being Tueſday they appeared againe, waiting the iſſue of a Treaſonable Plot which ſome of our wretched Citi<g ref="char:EOLhyphen"/>zens had aſſured to performe. This, and Sir <hi>William Wallers</hi> not comming, together with the aduantage of a good part of our Forces gon to <hi>Sherborne</hi> and our works not finiſhed; of all which they had a dayly account made them, build upon an eaſy conqueſt: On Tueſday night, whilſt the City was in a continued Alarum, it pleaſed God ſo to bleſſe the painfull watchfull diligence of Co<g ref="char:EOLhyphen"/>lonell <hi>Fines</hi> that the Treaſon was diſcovered, and the chiefe Actors taken, with al their preparation, which is one <hi>Robert Yeomons,</hi> one of the Sheriffe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the laſt yeere, and <hi>George Butcher,</hi> both Merchants, who are now impriſoned in the Caſtle, with many more; others are fled, and ſince ſéene in the Kings Army, and ſome are
+<pb n="6" facs="tcp:112557:4"/>hid, and every day new ones diſcovered and ſecuted, I cannot write you now at large, they being this day in examination, but in briefe it was thus, they had concea<g ref="char:EOLhyphen"/>led many Armed-men in Houſes, and fitted them with all things neceſſary to the worke, there is found with one of them a Coppy of the Actors Names, which was ſent the Army and ſuch others as muſt bee protected; All others were to be left unto the ſpoile, the firſt two ſorts were to have a white Inde in their Boſomes, and upon their Armes; The Plot it ſelfe was to ſet up<g ref="char:EOLhyphen"/>on the Sentinells, and the Court of Guard at Frome-Cats and the Pitty-Gate and to doe it quietly, they had the convelance of the backſide of a Houſe to bring on their men, who muſt come together at the to wling of a Bell in three Churches, St <hi>Nicholas</hi> Bell for the Butchers, Saint <hi>Johns</hi> Bell for the Saylors, and Saint <hi>Michaels</hi> Bell to bring downe the Cavaliers; My Houſe muſt be the firſt to beforced for the Reyes, which at that time I was without upon ſpeciall occaſion, which when it came to the hearing of the Kings Army they were not a little angry, and are now withdrawne from us, how farre, we yet know not, but the ſnare is bra<g ref="char:EOLhyphen"/>ken, and we are eſcaped, bleſſed be the Lord. This doth require a day ſet apart for Thanksgiving, and we have now reſolved upon it, I am ſorry my Son remaines ſo weake, yet I hope wee ſhall enjoy him longer amongſt us, I muſt conclude and take my leave reſting.</p>
+            <closer>
+               <dateline>Briſtoll <date>this of March, 1642.</date>
+               </dateline>
+               <signed>Yours aſſured, R.A.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:112557:4"/>
+            <head>From the Fort at BRANDANH ILL, <date>March 11. 1642.</date>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Ours by the Poſt I have received with my Bill of exchange, for which I give you many thanks for your paines therein: as for your buſineſſe with the Alderman, I muſt intreat your patience till the next conveiance, it is ſo that my Captaine, my ſelfe, and all our Company, have bin here to keepe this Fort this three dayes and two nights without reliefe, it is ſom<g ref="char:EOLhyphen"/>what hard duty for freſh water Souldiers, but wee are all willing to doe it, becauſe the time doth neceſ<g ref="char:EOLhyphen"/>ſarily require it.</p>
+            <p>Upon Tueſday the ſeventh of this moneth, Prince <hi>Robert,</hi> Prince <hi>Maurice,</hi> and my Lord <hi>George Digbie,</hi> with <hi>4000.</hi> Horſe and <hi>2000.</hi> Foot, came and preſented themſelves with their Forces upon <hi>Durdam downe,</hi> within Cannot ſhot of this Fort, and now I ſhall give you a Relation of a Treaſon as horrible, as deteſtable, (and ſetting aſide but the greatneſſe of Perſons) as bloody as the Gunpowder Treaſon, and ought eſpecially by us of this place to be taken notice of, and yearely to be celebrated with praiſe and thankſ<g ref="char:EOLhyphen"/>giving to the Great Protector unto eternity, the Plot was thus: Our grand Malignants to God and their Country, had combined with the Forces aforeſaid, to draw neere the City, and had promiſed them to aſſiſt
+<pb n="8" facs="tcp:112557:5"/>them with <hi>16.</hi> peeces of Ordnance, or more, as oc<g ref="char:EOLhyphen"/>caſion ſhould ſerve, theſe Guns were to be brought unto them by <hi>500.</hi> Seamen from our <hi>Pill</hi> where the Ships ly, and theſe men were to joyne with them for our confuſion. Now within the City Maſter <hi>Robert Yeomans</hi> that night had gotten into his houſe private<g ref="char:EOLhyphen"/>ly betweene <hi>50.</hi> or <hi>60.</hi> men, ſome Merchants like him<g ref="char:EOLhyphen"/>ſelfe, others Seamen, and all Rogues, their number I beleeve was to be greater, but God did diſcover the Plot ere it came to the height; theſe men in the night were, upon the towle of a Bell at Saint <hi>Nicholas,</hi> to come out of his houſe and joyne with a Regiment of butchers and mecanicks, that would come up to the high Croſſe, and they to kill the Centinell, and goe poſ<g ref="char:EOLhyphen"/>ſeſſe themſelves of the main guard, and ſo to hinder al that ſide of the City over the Bridge, from comming to their ſuccor, then at <hi>Froome</hi> gate Maſter <hi>George Bou<g ref="char:EOLhyphen"/>cher</hi> he had another crew of like Vermine, that upon the towle of Saint <hi>Johns</hi> Bell (which was to be at the ſame inſtant of time) they were to joyne with a Com<g ref="char:EOLhyphen"/>pany of Seamen, and ſet upon the guard at <hi>Froome</hi> gate, and all to be put to the Sword that came with<g ref="char:EOLhyphen"/>in their reach, they having poſſeſſion of theſe two Guards, a Bell was to towle at <hi>Milehill,</hi> to give no<g ref="char:EOLhyphen"/>tice that the Cavaliers ſhould draw downe to <hi>Froome</hi> gate, and ere they ſhould come, ſome from the Guard ſhould goe and breake open the Maiors doore and kill him and his, take away the Citie keyes, and let in theſe deſtroyers, ſo that now by this Poſt you might have heard of the Tragicall end of all your acquain<g ref="char:EOLhyphen"/>taince, for we found in ſome of the actors poſſeſſion white inckle ſtrings about of an ell long, and every one that was to live, ſhould wear one in his hat before,
+<pb n="9" facs="tcp:112557:5"/>and another in his boſome, thoſe that wanted it were to be maſſacred by Piſtols or Swords without mer<g ref="char:EOLhyphen"/>cy. The diſcovery of this was miraculous, ſome poore body or other came to our Company which guarded the Bridge that night, and acquainted us that they ſaw ſome men goe into Maſter <hi>Yeomans</hi> houſe at ten or neer eleven a clock at night. Whereupon halfe our Company with a Troope of Horſe, went to the houſe and found the men as I have formerly related, with many Piſtols and Muſkets ready charged, theſe men were preſently ſent away to the Caſtle, and that night the Company at <hi>Buchers</hi> houſe were taken, which hin<g ref="char:EOLhyphen"/>dered the towling of our Knell, and the next day wee fell to work roundly, and have clapt up all the Malig<g ref="char:EOLhyphen"/>nants we know.</p>
+            <p>On Wedneſday the Enemy had notice of the Plots Diſcovery, which made them retreat, and as I am unformed, Prince <hi>Robert</hi> went away weeping for cer<g ref="char:EOLhyphen"/>tain he was ſo incenſed againſt the parties that promi<g ref="char:EOLhyphen"/>ſed aſſiſtance and failed him, that he would ſpeedily return with Ordnance and be revenged on altogether: he is retreated towards <hi>Ciceſter,</hi> I pray God convert him (but not turne him.)</p>
+            <p>Vpon Thurſday laſt in the afternoone, Prince <hi>Ro<g ref="char:EOLhyphen"/>berts</hi> Trumpetter came to Towne, and wee all thought it was to Summon the City, but proved o<g ref="char:EOLhyphen"/>therwiſe. I was preſent with Colonell <hi>Fynes</hi> when he came in, and his meſſage was from the Prince to the Colonell to enquire after two Gentlemen, which he ſaid a partie of Horſemen had ſet upon, and either taken or killed, the ones name was <hi>Weſton,</hi> the other <hi>Wheton,</hi> both Gentlemen of qualitie, the Colonells
+<pb n="10" facs="tcp:112557:6"/>anſwer was, he had no ſuch priſoners of that name, but told him that on Tueſday night <hi>3.</hi> of his Troope ſet upon ſeven of their Company, and tooke foure of their Horſes, two Cloakes and ſome Piſtols, and that the men ſwimmed for their lives, no man ever ſeeing them after they entred the river, ſo that its probable they are drowned. I have beene tedious in this Relation, and all becauſe I would truly poſſeſſe you withall the paſſages, and now what remaines but to crave your thankefulneſſe to the Almighty for this our great deliverance, and the Lord grant wee may never be unmindfull to render unto him praiſe and thankefulneſſe for it; All your Friends are in good health heere, your Father I heare not of, ſo for the preſent I take leave, and reſt</p>
+            <closer>
+               <signed>Your aſſured loving Friend E. H.</signed>
+            </closer>
+            <postscript>
+               <p>Pray acquaint my Brother with what I write to you.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="11" facs="tcp:112557:6"/>
+            <head>A Letter written by a Reverend Miniſter now reſiding in <hi>Briſtoll,</hi> to a Friend of his in LONDON.</head>
+            <opener>
+               <salute>Loving Friend,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Could doe no leſſe then impact to you the won<g ref="char:EOLhyphen"/>derfull and miraculous goodneſſe of our graci<g ref="char:EOLhyphen"/>ous God, in preſerving this Citie of <hi>Briſtol</hi> from a moſt bloudy Plot to be put in execution upon the ſouldiers and well-affected in the City, which was on this manner: Your Brother, the Cap<g ref="char:EOLhyphen"/>taine, being appointed to watch with his whole Band of ſouldiers at a Gate in <hi>Briſtol,</hi> called <hi>Froome Gate,</hi> on Munday, Tueſday, and Wed<g ref="char:EOLhyphen"/>neſday, Nights and Dayes, and being diligent to ſee all his men in readineſſe, walkes up and downe within his Guard, as well to prevent the Enemies without, approaching neerer and neerer the Citie. even to a place called <hi>Durdome Downe,</hi> within two Miles of the Citie (as the Malig<g ref="char:EOLhyphen"/>nants within the Citie, from effecting their Plots, which wee did alwayes feare, but now were perſwaded were neerer to be put in execu<g ref="char:EOLhyphen"/>tion, by reaſon of the Enemies ſo neere approach towards the Walls of the Citie) and bending toward that very Gate, it happened through
+<pb n="12" facs="tcp:112557:7"/>the mightie Providence of Almightie God, that when the Captaine commanded all the Inhabi<g ref="char:EOLhyphen"/>tants of that Street to hang out their Lights, by reaſon of the Darkneſſe of the Night, and his ſouldiers were beating at their Doores to that purpoſe, that one <hi>Buchers</hi> Houſe, a Mer<g ref="char:EOLhyphen"/>chant of great Wealth was without Light: at whoſe Doore when they knocked, they would make no anſwer, as if there were no perſon at all in the Houſe: Vpon which, it pleaſed God to put it into the Captaines minde, (finding by inquirie, that there had beene ſome that entred in the day before) to ſuſpect thoſe perſons that were in the Houſe to be Malignants, becauſe they would not hang out their Lights. Where<g ref="char:EOLhyphen"/>upon the Captaine commanded his Men to breake up their Doores; and when hee and his Men were entred into the Houſe, they found about threeſcore men readie with their Armes: of whom, they apprehended twentie three, and the reſt ran out at a Water-Gate, on the back<g ref="char:EOLhyphen"/>ſide of the Houſe, and went away through the Water, it being a low Tyde, and made an E<g ref="char:EOLhyphen"/>ſcape: and ſearching afterwards, they found great ſtore of Armes, Muſkets readie charged, with ſome ſeven, and ſome ten Bullets apeece, their Pannes prim'd with Brimſtone and Pow<g ref="char:EOLhyphen"/>der
+<pb n="13" facs="tcp:112557:7"/>mingled together, that they might not miſſe Fire, their Linkes readie by them, their Powder papered out, and all things readie for the De<g ref="char:EOLhyphen"/>ligne, which ſhould have beene put in execution within an houre after this time of their appre<g ref="char:EOLhyphen"/>henſion, and the Method of their Plot was this: They having many dayes before kept in Pay great numbers of Armed men in ſeverall parts of the Citie, which men conſiſted for the moſt part of Saylers, Butchers, Halliers, and ſuch like, that upon the Touling of the Bril of Saint <hi>Iohns,</hi> and other certaine Bells appointed by the Conſpirators, the Malignants of <hi>Briſtol</hi> at a certaine houre appointed that very Mor<g ref="char:EOLhyphen"/>ning ſhould iſſue forth at <hi>Froome</hi> Gate in ſpe<g ref="char:EOLhyphen"/>ciall, and at divers other Gates of the Citie, upon all the ſouldiers, at their ſeverall Centu<g ref="char:EOLhyphen"/>ri<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, to murther them, and then ſeize upon the Ordnance, and make good <hi>Froome</hi> Gate for the entrance of the Enemie into the Citie (at the Ringing of a Bell) who lay within a mile and an halfe of the Citie, expecting every Minute when they ſhould have been let in, and as ſoone as they had entred the Citie, they were to cut the Throats of all perſons in the Citie, which had not the Marke and Word ſecretly diſperſed through the Citie, to ſave ſome that the Ene<g ref="char:EOLhyphen"/>mie
+<pb n="14" facs="tcp:112557:8"/>favoured: the Marke was a white Ribon<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te Incle on their Breſt, and the Word wa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>King Charles.</hi> The Captaine the next Morning tooke <hi>Bucher</hi> himſelfe, and tooke <hi>Herbert</hi> a Mer<g ref="char:EOLhyphen"/>chant, a Malignant, and divers other chiefe Merchants of the Citie: <hi>Herberts</hi> Boy and <hi>But<g ref="char:EOLunhyphen"/>chers</hi> Maid being taken at <hi>Buchers</hi> Houſe, have fully confeſſed the Plot, and about an hundred of the Complotters are taken, and in cloſe Priſon<g ref="char:punc">▪</g> Now, when the Enemie found that the Plot was diſcovered and prevented, though they had drawne their Forces ſo neere the Citie, immedi<g ref="char:EOLhyphen"/>ately they withdrew, and retyred toward <hi>Ciceter:</hi> And now we hope we ſhall ſettle the Citie in a very ſafe way. Thus much I thought good to impart to you, that you may know the certaintie of the Buſineſſe, and thus in haſte deſiring your prayers, I remaine your loving friend.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
